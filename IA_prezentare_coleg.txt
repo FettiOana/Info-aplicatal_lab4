@@ -1,0 +1,15 @@
+ <!DOCTYPE html>
+<html lang=“eng”>
+<head>
+<title>Catalog</title>
+</head>
+<body>
+
+<h6>Informatica Aplicata Anul Universitar 2022-2023</h6>
+<h1>Catalogul colegilor</h1>
+
+<a href=“Prezentare personala.html”>Fetti Oana-Maria</a>
+
+<a href=“Prezentare Mihai.html”>Manciu Mihai Mircea</a>
+</body>
+</html>
